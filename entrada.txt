@@ -1,0 +1,511 @@
+Texto 01: Inteligência Artificial
+
+A inteligência artificial (IA) é uma área da computação que busca desenvolver sistemas capazes de realizar tarefas que,
+normalmente, requerem inteligência humana.
+Esses sistemas são projetados para aprender, raciocinar, perceber o ambiente e tomar decisões de maneira autônoma. 
+Ao longo das últimas décadas, a IA tem evoluído rapidamente, impulsionando inovações em diversos setores.
+Uma das abordagens mais proeminentes em IA é o aprendizado de máquina (ML), que capacita os sistemas a melhorar seu desempenho
+com base em experiências passadas. 
+Algoritmos de ML analisam dados para identificar padrões e fazer previsões ou tomar decisões. 
+Essa capacidade de aprendizado torna a IA extremamente versátil, aplicando-se em áreas como reconhecimento de voz,
+visão computacional, tradução automática e até mesmo em jogos estratégicos complexos. 
+Outra vertente significativa é a inteligência artificial simbólica, que lida com símbolos e regras lógicas para 
+representar o conhecimento e realizar inferências. 
+hershehishers
+Sistemas baseados em lógica têm sido aplicados em diagnósticos médicos, planejamento de rotas logísticas e em muitos 
+outros contextos nos quais o raciocínio lógico é fundamental. 
+No entanto, o avanço da inteligência artificial também traz desafios éticos e sociais. 
+Questões relacionadas à privacidade, viés algorítmico, e o impacto no mercado de trabalho têm gerado debates intensos.
+É fundamental estabelecer diretrizes e regulamentações que assegurem um desenvolvimento ético e responsável da IA.
+andre felipe 
+Além disso, a interação entre humanos e sistemas de IA está em constante evolução. 
+Chatbots, assistentes virtuais e carros autônomos são exemplos de como a IA está se integrando à vida cotidiana. 
+Essa interação exige uma compreensão aprofundada da usabilidade e da confiança que os usuários depositam nos sistemas inteligentes. 
+O futuro da inteligência artificial promete avanços ainda mais significativos, à medida que a pesquisa continua a
+explorar novos métodos e técnicas. 
+A colaboração entre especialistas em IA, cientistas de dados e profissionais de diversas áreas é crucial para impulsionar 
+a inovação e lidar com os desafios emergentes.
+her
+Em resumo, a inteligência artificial é uma força transformadora que molda o presente e o futuro da tecnologia. 
+Seu impacto abrange desde melhorias na eficiência de processos até mudanças na forma como interagimos com o mundo ao nosso redor. 
+O desafio reside em equilibrar os benefícios dessa revolução tecnológica com a necessidade de garantir ética, transparência 
+e inclusão em todos os aspectos da IA. 
+joao kennedy
+No vasto universo do conhecimento, exploramos as fronteiras da compreensão, onde as ideias dançam em um ballet 
+caótico de pensamentos. 
+Cada palavra, uma partícula de significado, interage com as outras em um espetáculo intelectual.
+Nesse palco mental, conceitos abstratos se entrelaçam como enredos complexos de um romance infinito. 
+A mente humana, como um algoritmo sofisticado, processa informações em uma sinfonia de impulsos elétricos. 
+Os neurônios, pequenos protagonistas dessa ópera cerebral, conduzem o enredo da cognição.
+Em cada pensamento, uma jornada única se desenrola, formando a tapeçaria intrincada da experiência humana. 
+Na busca pelo entendimento, mergulhamos nas profundezas dos oceanos do saber, onde as correntes do aprendizado fluem incessantemente. 
+Descobrimos ilhas de conhecimento, cada uma habitada por conceitos e teorias que desafiam e expandem nossas mentes 
+sedentas por insights.
+A tecnologia, como uma fada madrinha moderna, tece seu encanto sobre a sociedade. 
+Os algoritmos, invisíveis feiticeiros da era digital, moldam nosso cotidiano, enquanto as redes sociais se tornam
+teatros de interações humanas.
+Em um clique, viajamos pelos pixels do ciberespaço, explorando vastos territórios virtuais. A natureza, uma sábia anciã,
+revela seus segredos nos ciclos da vida. As estações dançam uma dança perpétua, e os ecossistemas contam histórias milenares. 
+Cada criatura, do menor inseto à majestosa águia, contribui para o drama cósmico da biodiversidade. 
+As cidades, como organismos pulsantes, respiram vida em suas ruas movimentadas.
+shis
+Arranha-céus são testemunhas silenciosas da evolução urbana, enquanto o trânsito é uma coreografia caótica de carros e pedestres.
+Em meio ao concreto e aço, a cultura floresce em museus, teatros e restaurantes.
+A linguagem, uma ferramenta poderosa, dá vida às ideias abstratas. 
+As palavras são pincéis que pintam quadros imaginários, e as frases são melodias que ecoam nos corredores da mente.
+A comunicação, em sua diversidade, é a cola que une as pontes entre mentes distantes. 
+Nas estrelas, encontramos poesia cósmica. 
+A Via Láctea, uma vastidão de bilhões de sóis, é a tela onde a luz viaja por anos-luz.
+Planetas dançam em órbitas gravitacionais, e galáxias distantes sussurram segredos do universo primordial. 
+A filosofia, como um farol de sabedoria, ilumina os caminhos do pensamento crítico.
+Os filósofos, navegadores do intelecto, exploram as águas profundas da existência, questionando o porquê e o como. 
+Em suas palavras, encontramos respostas que provocam mais perguntas. 
+No teatro da vida, cada indivíduo é um ator, desempenhando papéis variados ao longo das cenas. 
+Os momentos, efêmeros e preciosos, são as linhas do roteiro que escrevemos a cada respirar.
+sher
+Em cada escolha, moldamos o enredo de nossas narrativas pessoais. 
+Essas palavras, como pétalas de uma flor literária, formam um buquê de expressão. 
+Cada frase é uma nota na sinfonia da linguagem, cada parágrafo é um capítulo na epopeia do entendimento.
+Neste texto aleatório, navegamos pelos mares do pensamento, explorando terras desconhecidas da imaginação. 
+Que este exercício literário seja uma jornada fugaz pelas paisagens da mente, convidando-o a refletir sobre os 
+mundos que habitam os recônditos do conhecimento e da criatividade. 
+his
+Afinal, em cada palavra, reside um universo de significados a serem explorados.
+
+Texto 02: Tecnologia da Informação
+
+A Evolução da Tecnologia da Informação: Desbravando Fronteiras Digitais
+A Tecnologia da Informação (TI) emerge como um dos pilares fundamentais na era moderna, moldando a maneira como vivemos, trabalhamos e nos conectamos. 
+Este texto explora a fascinante jornada da TI, desde suas raízes até as inovações mais recentes, desbravando fronteiras digitais e redefinindo os limites do possível.
+Os Primórdios da TI: Dos Mainframes aos Microprocessadores
+No início, a TI era sinônimo de enormes mainframes que ocupavam salas inteiras. 
+A década de 1950 testemunhou o surgimento dessas máquinas poderosas, responsáveis por processar dados de forma centralizada. 
+Com o advento dos microprocessadores na década de 1970, a TI tomou uma reviravolta, tornando os computadores pessoais uma realidade acessível a todos.
+A Revolução da Internet e a Globalização Digital
+A década de 1990 marcou a ascensão da internet, transformando a TI de uma ferramenta corporativa para uma força global. 
+A World Wide Web abriu as comportas para a troca instantânea de informações, comunicação global e o nascimento de novos modelos de negócios. 
+A internet, inicialmente um luxo, tornou-se uma necessidade ubíqua, conectando pessoas e dispositivos em uma teia digital intrincada.
+Cloud Computing e Virtualização: Redefinindo Infraestruturas Tecnológicas
+O século XXI testemunhou a ascensão da computação em nuvem, uma revolução na maneira como empresas e indivíduos gerenciam e armazenam dados.
+his
+A virtualização permitiu a criação de ambientes computacionais isolados, otimizando recursos e promovendo a flexibilidade. A infraestrutura como serviço (IaaS), plataforma como serviço (PaaS) e software como serviço (SaaS) tornaram-se termos-chave no léxico da TI moderna.
+Inteligência Artificial e Machine Learning: A Nova Fronteira da Inovação
+A TI contemporânea é impulsionada pela inteligência artificial (IA) e machine learning (ML).
+Algoritmos avançados aprendem padrões complexos, possibilitando desde assistentes virtuais inteligentes até análises preditivas em larga escala.
+A automação, alimentada por IA, redefine processos de negócios, impulsionando a eficiência e a inovação.
+Cibersegurança: Protegendo os Alicerces Digitais
+Com a expansão exponencial da TI, a cibersegurança tornou-se uma prioridade crítica. 
+A ameaça constante de ataques cibernéticos exige estratégias robustas de proteção. 
+Firewalls, antivírus, criptografia e práticas de segurança cibernética são essenciais para salvaguardar dados sensíveis e manter a integridade das operações digitais.
+joao kennedy
+TI e Transformação Digital: Rumo ao Futuro Conectado
+A Transformação Digital é a narrativa central da TI contemporânea. Empresas buscam modernizar suas operações, adotando tecnologias emergentes para permanecerem competitivas. 
+A Internet das Coisas (IoT), blockchain, realidade aumentada e virtual são catalisadores dessa transformação, criando um futuro onde a conectividade e a inovação convergem.
+Desafios e Ética na Era Digital
+À medida que a TI avança, surgem desafios éticos e sociais. 
+Questões relacionadas à privacidade, equidade no acesso à tecnologia e o impacto da automação no emprego requerem reflexão profunda. 
+A ética na criação e uso de tecnologias torna-se uma consideração crucial para garantir um futuro digital equitativo e responsável.
+Conclusão: O Infinito Horizonte da TI
+A Tecnologia da Informação transcende suas próprias fronteiras, continuando a moldar o mundo em evolução.
+Seja na inovação disruptiva ou na resolução de desafios globais, a TI permanece no epicentro das mudanças. 
+À medida que enfrentamos o futuro digital, a única constante é a promessa de um horizonte infinito, 
+repleto de possibilidades que a TI continuará a desbravar.
+her
+
+Texto 03: Ciência da Computação: aproximação com a indústria de tecnologia é definitiva para escolher onde cursar
+
+Desde a criação do primeiro computador nos Estados Unidos, em 1946, o ser humano vem buscando maneiras de se tornar
+mais conectado com essa tecnologia. No Brasil, o primeiro computador só chegou em 1957. 
+Hoje, mais de 50 anos depois, essa máquina já passou por diversas transformações e segue presente na vida de muitos brasileiros. 
+Seja pelo computador, ou por tablets, smartphones e outros aparelhos, nossa rotina é completamente organizada 
+por ferramentas e softwares desenvolvidos por cientistas especializados nas tecnologias da informação (TI). 
+O curso de Ciência da Computação da PUCRS prepara os/as estudantes para atuar em todas as áreas relacionadas à TI, 
+como o desenvolvimento de jogos e softwares variados, a gerência de projetos e a análise de testes. 
+Para Gabriela Zorzo, estudante do curso de Ciência de Computação da Escola Politécnica da PUCRS, escolher este curso foi um
+processo fácil: a aluna, que já é formada em Engenharia Civil pela Universidade, teve vontade de trocar de área ao perceber que 
+todas as outras profissões utilizam a tecnologia da informação para alguma coisa: 
+“Eu também senti que o curso traz diversas oportunidades para impactarmos de maneira positiva a vida das pessoas. 
+Aproveitei para cursar como disciplina eletiva algumas cadeiras da Ciência da Computação no meu último semestre da 
+Engenharia Civil para ver se eu gostava mesmo. 
+Acabei me encantando na área e optei pelo reingresso diplomado em 2020”, conta a estudante de 26 anos.  
+Antes mesmo de iniciar sua primeira graduação, Gabriela já conhecia muito bem a PUCRS. 
+A atual aluna de Ciência da Computação estudou durante o Ensino Médio no Colégio Marista Champagnat, uma das escolas da 
+Rede Marista, localizada dentro do Campus. 
+Devido à proximidade, Gabriela vê a Universidade como sua segunda casa e, por isso, sua escolha sobre onde cursar o
+Ensino Superior foi mais fácil. Além da familiaridade com o espaço, Gabriela acredita que a estrutura da instituição 
+para a área de TI tem um grande diferencial em comparação as outras universidades por causa do seu Parque CientÍfico 
+Tecnológico, o Tecnopuc.  
+Leia mais: Tecnopuc é reconhecido como quarto melhor Ecossistema de Inovação Global 
+“Para alguém que trabalha na área da TI, ter essa oportunidade de utilizar esse espaço e poder se conectar com 
+profissionais é maravilhoso. Além disso, gosto muito da proximidade que temos com os professores, muito solícitos para 
+nos auxiliarem na nossa formação”, destaca. 
+Parque Tecnológico e laboratórios projetados para o futuro   
+A PUCRS conta com diferentes espaços planejados e disponíveis para o aprendizado dos/as estudantes. 
+O Tecnopuc, um ecossistema de inovação global localizado dentro do Campus, 
+oferece uma série de oportunidades para novas empresas, startups e alunos/as se desenvolverem. 
+Empresas como Huawei, Thoughtworks Brasil, UOL EdTech , HP, Apple, Sebrae X, entre outras estão instaladas no parque,
+e Gabriela Zorzo é uma das estudantes que já esteve em contato direto com essas organizações.  
+A aluna de Ciência da Computação venceu em 2022, junto com outros cinco estudantes, o Swift Student Challenge, 
+uma competição da Conferência Anual de Desenvolvedores da Apple (WWDC), que visa estimular o interesse dos estudantes em programação.
+Devido à premiação, Gabriela foi convidada para prestigiar presencialmente um dos maiores eventos de tecnologia do mundo:
+a Conferência Anual de Desenvolvedores da Apple, onde foram apresentados novos lançamentos da marca.  
+A Escola Politécnica, local onde a estudante tem aulas do curso, conta com mais de 50 espaços de aprendizagem, 
+disponíveis para alunos e alunas dos mais de 20 cursos de graduação presencial. Para Gabriela, um dos grandes diferenciais da 
+Universidade é a oportunidade de aprender na prática em laboratórios bem equipados: 
+“Aqui na PUCRS conseguimos ter aulas práticas em laboratórios e isso é fundamental, principalmente nos cursos de TI. 
+A Universidade consegue oferecer aos/as estudantes um espaço para que esse desenvolvimento aconteça.” 
+Para os/as alunos/as de Tecnologia da Informação a Escola oferece os laboratórios de Redes de Computadores, 
+de Computação Gráfica e Jogos, de Organização de Computadores, e de Alto Desempenho, 
+além da Agência Experimental de Engenharia de Software. O coordenador e professor do curso de Ciência da Computação,
+Alexandre Agustini, destaca que esses locais são essenciais para um processo pedagógico completo.  
+“Os laboratórios e os demais espaços de aprendizagem oferecidos pelos cursos de TI possibilitam que estudantes adquiram 
+e dominem conceitos básicos e avançados.
+Estes conceitos os habilitam a atuar no mercado, desenvolvendo soluções tecnológicas que envolvam todas as áreas de tecnologia”, 
+explica o docente, que também é doutor em Informática. 
+Leia também: Engenharia de Computação: laboratórios e conexão com a indústria fazem toda a diferença na formação 
+Graduação conectada com o mercado e com a pesquisa 
+Com o currículo atualizado, a graduação em Ciência da Computação da PUCRS tem tradição e reconhecimento no mercado.
+O professor Alexandre explica que para manter a grade curricular atualizada, os/as professores/as seguem referenciais 
+nacionais e internacionais para passar as novidades mais atuais para os/as estudantes.  
+“O nosso curso conta com um corpo docente altamente qualificado, com professores com mestrado e doutorado obtidos 
+em instituições de referência do Brasil e do Exterior”, pontua. 
+Durante a graduação, estudantes conseguem se aprofundar em temas como linguagens de programação, sistemas operacionais, 
+segurança de sistemas, entre outros. 
+No curso de Ciência da Computação, os/as alunos/as também têm contato com pesquisas realizadas na Universidade. 
+Sendo uma área que apresenta mudanças e descobertas constantes, a PUCRS busca oferecer aos estudantes uma educação 
+contínua com integração direta com a pós-graduação. 
+A Universidade também oferece a Pós-Graduação em Ciência da Computação (PPGCC), uma das melhores do Brasil com nota 7, 
+a maior distinção concedida pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) para a pós-graduação no país.  
+
+Texto 04: Torneio de robótica desafia jovens a repensarem o mundo
+
+A nova temporada 2023/2024 do Torneio de Robótica FIRST LEGO League Challenge (FLL) traz esse ano o tema Masterpiece, 
+que propõe o desafio para jovens repensarem o mundo das artes aliadas às tecnologias. Os projetos científicos são 
+desenvolvidos através da criação de robôs feitos com peças de Lego. Realizada pela Firjan SESI, a etapa regional vai 
+ocorrer nos dias 6 e 7 de dezembro, das 9h às 17h, na Escola Firjan SENAI SESI Tijuca (Rua Morais e Silva, 53, Tijuca), 
+para estudantes de 9 a 15 anos.
+O Torneio conta com cerca de 30 equipes inscritas, que agrupa alunos de escolas públicas, privadas e equipes de garagem, 
+que são times formados por amigos sem vínculo escolar. Liderados por dois técnicos adultos, cada grupo é composto por
+quatro a dez integrantes, que precisam trabalhar em sintonia, com base em valores como respeito, ganho mútuo e 
+competição amigável. Os jovens são desafiados a buscarem soluções para problemas do dia a dia da sociedade moderna.
+E os temas são diferentes a cada temporada - em 2020, por exemplo, eles foram provocados a repensarem espaços para 
+exercícios, competições e brincadeiras. Seguindo regras feitas especificamente para cada temporada, eles constroem robôs 
+baseados na tecnologia LEGO Education, que devem ser programados para cumprir uma série de missões.
+“A robótica na Firjan SESI não vem com o intuito de fazer com que o aluno apenas monte e programe o robô. Ela possui o 
+objetivo de estabelecer novas possibilidades para o pensamento científico e do uso da tecnologia, a tomada de decisão,
+além de motivar os alunos aos desafios dos problemas reais do mundo”, explica Vinicius Mano, coordenador de Educação Básica 
+da Firjan SESI.
+Categorias
+O Torneio abrange a participação de aproximadamente 600 pessoas, entre alunos, técnicos e juízes que avaliam cada 
+equipe por meio de quatro categorias: Desafio do Robô, Design do Robô, Projeto de Inovação e Core Values.
+O Desafio do Robô é o momento em que os estudantes colocam seus robôs em funcionamento em uma arena de competição 
+para realizar mais de 15 missões. Eles precisam pensar de forma estratégica para fazer a maior pontuação dentro de
+dois minutos e meio. Nessa categoria, cada equipe tem o direito de três rounds oficiais e o melhor placar é o que conta.
+O Design do Robô é a categoria que observa a mecânica do robô, a engenharia e a programação utilizada para montá-lo.
+O Projeto de Inovação é a pesquisa científica que cada grupo precisa realizar para trazer soluções para o desafio da temporada. 
+A última categoria é a Core Values, que apresenta a proposta de entender como as equipes conseguiram trabalhar as
+competências socioemocionais, ou seja, a força do trabalho em equipe e a resiliência.
+A partir da avaliação dos juízes nas quatro categorias, as equipes vão se tornar elegíveis ou não a alguma premiação. 
+Há premiações oficiais de cada categoria e, os grupos podem participar da classificação para a etapa nacional. 
+Com poucas vagas, apenas os três primeiros vencedores se classificam para o torneio nacional, que ocorrerá entre os
+dias 28/02 e 02/03 em Brasília no ano que vem.
+Inauguração Firjan SESI Matemática
+E para quem tem dificuldades e precisa de uma forcinha com a temida Matemática, durante o evento, será inaugurada 
+a unidade móvelFirjan SESI Matemática, com atividades divertidas relacionadas à disciplina. E quem ainda tiver
+interesse em conhecer a estrutura da Firjan SENAI SESI Tijuca, como laboratórios e oficinas, a unidade também estará
+com as portas abertas à visitação do público
+Torneio de Robótica FIRST LEGO League
+Data: 06 e 07/12
+Horário: 9h às 17h
+Local: Escola Firjan SENAI SESI Tijuca, Rua Morais e Silva, 53, Tijuca
+Entrada: Gratuita
+
+Texto 05: Supercomputadores: o que são, como funcionam e história
+
+Com potência superior aos computadores de mesa, essas máquinas são usadas para fins de pesquisa na área de 
+tecnologia e outros ramos; conheça mais sobre sua criação.
+Supercomputadores são máquinas altamente potentes capazes de realizar tarefas em uma velocidade extremamente rápida. 
+Bem diferentes dos computadores de uso doméstico, estas máquinas ocupam um grande espaço e são usados por pesquisadores
+para realizar tarefas que exigem altíssimos níveis de processamento. Criados na década 1960 pela IBM pouco depois do
+desenvolvimento do primeiro computador moderno, os supercomputadores hoje atendem a diversas demandas de mercado e são
+comumente usados para trabalhar com inteligência artificial e big data, por exemplo.
+Capazes de realizar cálculos ultra complexos em velocidade recorde os supercomputadores têm desempenho infinitamente superior 
+ao de PCs comuns. Medida em operações de ponto flutuante por segundo (FLOPS), a performance de uma máquina dessas pode chegar
+a uma velocidade de processamento de 100 Pflops, enquanto um computador normal costuma chegar, no máximo, às dezenas de Tflops. 
+A seguir, o TechTudo explica o que é e como funciona um supercomputador, e conta um pouco de sua história.
+
+Texto 06: O que é a informática
+
+A Informática é um ramo das ciências da informação e da computação. Estuda os processos de recolha, armazenamento, 
+processamento, transferência e difusão de dados digitais.
+O termo surgiu da junção das palavras informação e automática e pode ser resumido como o processo de tratamento 
+automático da informação.
+A informática, suas inovações e seus dispositivos fazem parte de todas as áreas da nossa vida e servem como ferramentas
+de trabalho, estudo e de entretenimento.
+O que é informática básica?
+A informática básica ensina os conceitos fundamentais dos computadores, que facilitam a vida e a organização do trabalho.
+Seu entendimento é um pré-requisito comum para muitas vagas de emprego. Ter conhecimentos básicos de informática 
+significa saber:
+usar um computador;
+acessar a internet;
+usar navegadores e motores de busca;
+criar e salvar arquivos;
+organizar pastas;
+criar planilhas e gráficos básicos;
+conectar dispositivos em cabo USB;
+ter noções sobre o sistema operacional do computador.
+Os conceitos básicos mais importantes
+Compreender a diferença entre os conceitos de software e hardware é fundamental.
+O termo hardware se refere a todos os itens físicos de um dispositivo, ou seja, tudo aquilo que pode ser tocado.
+Teclado, mouse, monitor, placa de vídeo, memória e placa-mãe e as demais peças que compõem um computador,
+tablet ou smartphone são hardware.
+Já o software diz respeito a aspectos que não são físicos, como o sistema operacional e os programas instalados na máquina.
+Outros conceitos de informática básica são:
+Sistema operacional: é o software mais importante, que faz o computador funcionar e permite que outros programas sejam
+instalados e rodem. Dentre os mais famosos para PC estão Windows, macOS e Linux. Já Android e iOS são os mais usados em smartphones;
+CPU: sigla em inglês que significa Unidade Central de Processamento. É um dos componentes mais importantes da máquina,
+sendo a responsável por processar os dados e transformá-los em informação;
+Disco rígido (HD): local onde são armazenados todos os dados do computador, como arquivos, programas, fotos, etc.;
+Dispositivo de armazenamento de dados portáteis: aparelhos externos usado para armazenar arquivos de diferentes formatos
+fora do computador. Também permitem transferi-los para outros dispositivos. Entre eles, estão o pendrive e o HD externo;
+Memória RAM: armazena informações que serão utilizadas pela CPU de forma temporária. Sua função é tornar processos mais 
+velozes, ao guardar dados que foram usados recentemente e poderão ser necessários em breve;
+Monitor: é a tela do computador;
+Navegador: programa usado para acessar sites e navegar na internet. Chrome, Firefox, Safari e Opera estão entre os mais usados;
+Nuvem: se refere a programas e serviços que funcionam baseados na internet. Ou seja, que não ocupam espaço em seu dispositivo, 
+mas, sim, em servidores online. Dentre os serviços na nuvem mais populares estão os de armazenamento de fotos e outros arquivos,
+editores de texto, planilhas, apresentações, etc.;
+Periféricos: são dispositivos auxiliares que adicionam funções extras ao dispositivo principal, como teclado, mouse,
+impressora, webcam, fone de ouvido, etc.
+Placa-mãe: responsável por conectar todos os componentes entre si. Também é onde ficam instalados a CPU, o HD, a
+memória RAM, placa de vídeo, entre outros.
+Para que serve a informática?
+A informática coloca a tecnologia a serviço das pessoas ao garantir mais agilidade para lidar com a informação. 
+Graças a ela, é possível criar, acessar, armazenar, processar e distribuir grandes volumes de dados rapidamente.
+Para deixar mais claro, basta pensar nas urnas eletrônicas. Antes delas, o processo de contagem de votos no Brasil 
+levava dias (ou até semanas, dependendo do caso). Atualmente, o resultado de uma eleição sai em poucas horas.
+Além disso, evita fraudes de apuração, erros de votação, entre outros problemas comuns no voto impresso.
+Como uma ciência que lida com o processamento automático da informação, a informática abrange muitas áreas de atuação, como:
+programação;
+análise de sistemas;
+desenvolvimento de hardware;
+tecnologia da informação (TI);
+manutenção de computadores;
+inteligência artificial.
+Conheça um pouco mais sobre tecnologia da informação.
+Como surgiu a informática?
+A história da informática começa antes do surgimento do primeiro protótipo de um computador, na década de 1830.
+O princípio que levou ao desenvolvimento desse tipo de tecnologia é bem mais antigo. 
+Surgiu com a necessidade de criar um dispositivo que pudesse fazer cálculos rapidamente.
+1642: La Pascaline
+Primeira calculadora mecânica do mundo, criada pelo matemático francês Blaise Pascal (1623-1662). 
+Também conhecida como máquina aritmética, foi reconhecida como a primeira criação da informática.
+Anos 1830: Máquina Analítica
+Charles Babbage (1791-1871) projeta a Máquina Analítica, o que seria considerado o primeiro computador digital mecânico do mundo.
+O aparelho funcionaria sem nenhuma intervenção humana, comandado apenas por programas. 
+O projeto apresentava quatro características básicas, encontradas nos computadores até hoje.
+O moinho era responsável por fazer as quatro operações aritméticas e memória por armazenar até mil números de 50 dígitos. 
+Já os dados eram interpretados por um leitor de cartões perfurado,
+enquanto a impressora imprimia os resultados das operações executadas.
+Conhecido como o pai da informática, Babbage faleceu sem concluir a construção do equipamento.
+1936: Máquina Universal de Turing
+O matemático inglês Alan Turing (1912-1954) cria o modelo conhecido como Máquina Universal de Turing.
+Apesar de hipotética, sua invenção serviu como base para a teoria da computação como é conhecida atualmente.
+Foram abordados os primeiros conceitos da ciência da computação e do uso de algoritmos.
+1946: ENIAC: primeiro computador digital eletrônico do mundo
+Funcionárias do exército americano operando o ENIAC
+É concluído o primeiro computador digital eletrônico do mundo, o Electronic Numeral Integrator and Computer 
+(Computador e Integrador Numérico Eletrônico, em português), o ENIAC.
+Criado por John Mauchly (1907-1980) e John Eckert (1919-1995), foi encomendado pelo exército americano para
+processar dados sobre pesquisas táticas, durante a Segunda Guerra Mundial.
+Funcionava com um sistema manual de perfuração de cartões e podia fazer até 5 mil adições, 357 multiplicações 
+ou 38 divisões por segundo. Apesar de pesar cerca de 30 toneladas e ocupar um espaço de 167 m2, conseguia guardar 
+apenas 20 palavras na memória.
+O ENIAC foi desativado em outubro de 1955.
+1950 a 1970: Terceira Revolução Industrial
+Representa um momento fundamental na história da informática. Nessa época, surgiram tecnologias avançadas que,
+mais tarde, originaram e popularizam os computadores pessoais, arquivos digitais, internet e a comunicação virtual 
+que conhecemos hoje.
+Evolução da informática em quatro períodos
+A história da informática pode ser contada pela evolução dos computadores. 
+É dividida em quatro etapas, chamadas de gerações:
+Primeira geração (1951/1959): os primeiros computadores apresentavam muitos problemas, como alto consumo de energia, 
+baixa velocidade de processamento e pouca memória. Ainda assim, representaram o avanço da informática na década de 1950.
+O ENIAC faz parte dessa primeira geração.
+Segunda geração (1959/1965): os computadores da segunda geração ficaram um pouco menores e já consumiam menos energia,
+mas ainda ocupavam grandes espaços e apresentavam problemas parecidos com os da primeira geração. 
+Foram os primeiros computadores usados em atividades comerciais.
+Terceira Geração (1965/1975): os computadores ficaram ainda mais leves e menores e foram incrementados 
+com inovações tecnológicas importantes, como o chip. 
+Eram dispositivos mais rápidos e com mais capacidade de processamento e armazenamento. 
+Foi nesse período que surgiram os primeiros computadores de uso pessoal.
+Quarta geração (1975 em diante): a partir da década de 1970, a evolução da informática tem sido veloz, 
+com a criação de inúmeras tecnologias e dispositivos cada vez mais rápidos, inteligentes e eficientes,
+e a comercialização dos computadores cresceu como nunca. Internet e robótica são duas áreas que surgiram nessa época.
+Para entender mais sobre a evolução da informática, veja os artigos sobre:
+Terceira Revolução Industrial
+Quarta Revolução Industrial
+Dispositivos de entrada e saída
+Diagrama de Classes UML: o que é, componentes e exemplo
+Algoritmo: o que é, exemplos e aplicações
+
+Texto 07: O que é um algoritmo
+
+Um algoritmo é uma sequência de instruções ou comandos realizados de maneira sistemática com o objetivo de 
+resolver um problema ou executar uma tarefa.
+A palavra "algoritmo" faz referência ao matemático árabe Al Khwarizmi, que viveu no século IX, e descreveu
+regras para equações matemáticas.
+Os algoritmos são como uma receita de bolo: uma sequência de ações que devem ser executadas para que o objetivo final
+— o bolo pronto — seja atingido.
+Aplicam-se os algoritmos nas tarefas simples do dia a dia e também nos programas computacionais 
+complexos que identificam o comportamento do consumidor na internet.
+Todas as funções dos computadores, smartphones e tablets, por exemplo, resultam de algoritmos.
+Essas máquinas conseguem realizar bilhões de comandos em poucos segundos.
+Exemplos de Algoritmos
+Os algoritmos também são usados na programação computacional e na internet, 
+especialmente pelos motores de busca e pelas redes sociais.
+Algoritmos em motores de busca (Google)
+Um dos exemplos mais lembrados é o algoritmo do motor de busca do Google, que realiza diversas operações para
+organizar a maneira como o resultado das pesquisas aparecem para o usuário.
+Quando um usuário pesquisa no Google por uma palavra-chave, como "o que é democracia", a ordem dos resultados
+mostrados depende de diversos cálculos que o algoritmo realizou para colocá-los naquela posição.
+Esses cálculos estão baseados em diversas variáveis, como a qualidade e a atualidade do conteúdo, 
+a qualidade do site onde está o conteúdo e quanto tempo as pessoas costumam ficar naquela página.
+O algoritmo do Google é bastante complexo e de tempos em tempos é atualizado, de modo a oferecer uma melhor 
+experiência e apresentar os melhores resultados para os usuários.
+Algoritmos em redes sociais
+As redes sociais também são programadas com complexos algoritmos. Os feeds do Facebook, Instagram e Twitter, 
+por exemplo, mostram postagens e anúncios conforme o comportamento do usuário.
+Isso significa que nem todas as postagens de seus amigos irão aparecer no seu feed. Os algoritmos dessas redes 
+sociais selecionam as que fazem mais sentido conforme a sua preferência.
+O algoritmo do Facebook, chamado de EdgeRank, por exemplo, seleciona os conteúdos mais relevantes para você de
+acordo com diversos fatores, como:
+Publicações e páginas que você curte;
+Pessoas com quem você interage;
+Páginas em que você deixa comentários;
+Seus compartilhamentos.
+O Spotify é outro exemplo de aplicativo e rede social que utiliza algoritmos para oferecer aos usuários
+uma experiência mais personalizada. Todas as semanas o aplicativo oferece uma playlist chamada “Descobertas da semana”.
+Essa playlist contém 30 músicas que nunca foram tocadas pelo usuário no aplicativo, mas que são parecidas com
+outras músicas que ele costuma ouvir.
+O objetivo é apresentar para o usuário as músicas e bandas que ele ainda não conhece, mas que provavelmente são
+compatíveis com o seu gosto musical.
+Os algoritmos utilizados pelas redes sociais também podem sofrer mudanças. Um bom exemplo disso é o Youtube:
+inicialmente, a plataforma priorizava os vídeos com o maior número de visualizações.
+No entanto, com a proliferação de clickbaits e web robots (bots), artimanhas utilizadas para fraudar a 
+contabilização das visualizações, aumentando-as artificialmente, o Youtube modificou a métrica do seu algoritmo, 
+que começou a priorizar o tempo de visualização dos vídeos.
+Algoritmos na programação computacional
+Algoritmo é um conceito muito importante para a programação, pois todas as máquinas e programas de computador 
+funcionam a partir de sequências de ações finitas que levam à realização de uma tarefa.
+O papel do programador é pensar em todas as etapas das tarefas e descrevê-las de maneira objetiva e clara para 
+que o computador possa realizá-las.
+Um exemplo seria um programa que mostra se um aluno foi aprovado ou não em determinada disciplina. 
+Considerandoque a nota final seja a média das duas provas realizadas no semestre, os comandos seriam:
+Coletar a nota nas duas provas realizadas;
+Calcular a média aritmética entre elas;
+Se o resultado for maior que 7, o aluno foi aprovado;
+Se o resultado for menor que 7, o aluno foi reprovado.
+No entanto, os computadores não entendem a linguagem escrita dessa maneira, por isso os programadores devem 
+"traduzir" esses comandos para linguagens de programação. Alguns exemplos de linguagem de programação são:
+Java
+Linguagem C
+Linguagem C++
+Linguagem C#
+Python
+As operações de um algoritmo são realizadas de maneira muito rápida pelas máquinas.
+Um notebook comum, por exemplo, costuma fazer mais de um bilhão de operações por segundo.
+Essa velocidade de operação revolucionou o mundo computacional, pois as máquinas podem fazer em pouquíssimo 
+tempo cálculos que o ser humano levaria dias, meses ou até mesmo anos para realizar.
+Aplicação do algoritmo no dia a dia
+Os algoritmos surgem na matemática para descrever as regras para as equações algébricas, mas eles podem ser 
+aplicados a qualquer sequência de ações finitas que busquem a resolução de um problema.
+Todas as tarefas que executamos no dia a dia podem ser transformadas em algoritmos, basta destrinchar 
+todas as ações necessárias para se chegar ao objetivo determinado.
+Se fizéssemos um algoritmo para o preparo do café, por exemplo, poderíamos ter as seguintes etapas:
+ferver a água;
+colocar o pó no filtro;
+desligar a água;
+passar a água pelo pó de café.
+Os algoritmos utilizados em computadores são mais complexos e também envolvem possibilidades. 
+Considere o exemplo de um mouse sobre um navegador de internet.
+O comando de fechar a tela é dado por um algoritmo que entende que:
+Se o mouse clicar no “x”, a página deve ser fechada;
+Se o mouse não clicar no “x”, nada deve ser feito.
+Basicamente, os algoritmos são compostos por dados de entrada (input), processamento e dados de saída (output).
+Essa estrutura pode ser facilmente entendida com o exemplo de uma calculadora:
+Dados de entrada: valores e operações a serem realizadas
+Processamento: cálculos realizados pela máquina
+Dados de saída: resultado da operação
+Bibliografia:
+OLIVEIRA, Jayr F.; MANZANO, José A. N. G.. Algoritmos: Lógica para desenvolvimento de programação de computadores.
+São Paulo: Erica/Saraiva, 2016.
+CORMEN, Thomas H. et al.. Algoritmos: teoria e prática. Amsterdã: Elsevier, 2012.
+
+Texto 08: O que é lógica: tipos e exemplos
+
+Lógica é um substantivo feminino com origem no termo grego logiké, relacionado com o logos, razão, 
+palavra ou discurso, que significa a ciência do raciocínio.
+Em sentido figurado, a palavra lógica está relacionada a uma maneira específica de raciocinar, acertadamente. 
+Por exemplo: Isso nunca vai funcionar! O teu plano não tem lógica nenhuma!
+Os problemas ou jogos de lógica são atividades onde um indivíduo tem que usar um raciocínio lógico para resolver o problema.
+Lógica aristotélica
+De acordo com Aristóteles, a lógica tem como objeto de estudo o pensamento, assim como as leis e regras 
+que o controlam, para que esse pensamento seja correto. Para o filósofo grego, os elementos constituintes da 
+lógica são o conceito, juízo e raciocínio. As leis da lógica correspondem às ligações e relações que existem 
+entre esses elementos.
+Alguns sucessores de Aristóteles foram responsáveis pelos fundamentos da lógica medieval, que perdurou até o 
+século XIII.
+Pensadores medievais como Galeno, Porfírio e Alexandre de Afrodísia classificavam a lógica como a ciência de julgar
+corretamente, que possibilita alcançar raciocínios corretos e formalmente válidos.
+Lógica de programação
+A lógica de programação é a linguagem usada para criar um programa de computador. 
+É essencial para desenvolver programas e sistemas informáticos, pois define o encadeamento lógico para esse desenvolvimento.
+Os passos para esse desenvolvimento são conhecidos como algoritmo, que consiste em uma sequência lógica de 
+instruções para que a função seja executada.
+Lógica de argumentação
+A lógica de argumentação permite aferir a veracidade de um enunciado. 
+Não é realizada com conceitos relativos nem subjetivos.
+São proposições tangíveis cuja validade pode ser verificada. Neste caso, a lógica visa avaliar a forma
+das proposições e não o conteúdo. Os silogismos (compostos por duas premissas e uma conclusão), são um
+exemplo de lógica de argumentação. Por exemplo:
+O Fubá é um cachorro.
+Todos os cachorros são mamíferos.
+Logo, o Fubá é um mamífero.
+Lógica matemática
+A lógica matemática (ou lógica formal) estuda a lógica segundo a sua estrutura ou forma.
+Consiste em um sistema dedutivo de enunciados cujo objetivo é criar um grupo de leis e regras 
+para determinar a validade dos raciocínios. Assim, um raciocínio é considerado válido se é possível alcançar uma 
+conclusão verdadeira a partir de premissas verdadeiras.
+A lógica matemática também é usada para edificar raciocínios válidos mediante outros raciocínios. 
+Os raciocínios podem ser dedutivos (a conclusão é obtida obrigatoriamente a partir da verdade das premissas)
+e indutivos (probabilísticos).
+A lógica formal pode ser dividida em dois grupos: lógica proposicional e lógica de predicados.
+Leibniz é visto por muitos como a mente que iniciou o conceito de lógica formal ou matemática, que aborda as 
+questões centrais da matemática. No entanto, só depois de 1890, com Peano, começou a interrogação a respeito
+da consistência de axiomas.
+Alguns importantes princípios da lógica formal se encontram na obra The Mathematical Analysis of Logic 
+("Análise Matemática da Lógica"), da autoria de George Boole, autor da "lógica ou álgebra de Boole".
+Lógica proposicional
+A lógica proposicional é uma área da lógica que examina os raciocínios conforme as relações entre orações 
+(proposições), unidades mínimas do discurso, que podem ser verdadeiras ou falsas.
+
+Texto 09: O que é a Internet
+
+A internet é o conjunto de redes de computadores que, espalhados por todas as regiões do planeta, 
+conseguem trocar dados e mensagens utilizando um protocolo comum.
+Este protocolo compartilhado pela internet é capaz de unir vários usuários particulares, entidades públicas
+e empresariais em um mesmo acesso.
+Ela então é formada por computadores comuns e por outros especiais, chamados de servidores, 
+máquinas com grande poder de processamento e conexões velozes. Os servidores são controlados por universidades, 
+empresas e órgãos do governo.
+A internet traz uma extensa gama de recursos de informação e serviços. Exemplo disso são os documentos 
+inter-relacionados de hipertextos da World Wide Web (WWW), redes ponto-a-ponto (peer-to-peer) e infraestrutura de
+apoio a correios eletrônicos (e-mails).
+A internet também possui um alcance e uma abrangência ímpar. Pode, inclusive, auxiliar mídias eletrônicas e impressas,
+uma vez que uma informação pode ser acessada de qualquer lugar do mundo e a qualquer hora.
+Atualmente é possível encontrar computadores ligados à Internet em quase todos os lugares (empresas, lares,
+escolas, universidades, clubes, igrejas, etc) do cotidiano. As pessoas que já utilizam esse meio de comunicação 
+experimentam cada vez mais alterações em seu modo de vida por meio da internet.
+Seu nome tem origem inglesa, onde o termo inter significa "internacional" e net significa "rede", ou seja, 
+"rede internacional".
