@@ -13,3 +13,7 @@ Este repositório contém uma implementação do algoritmo Aho-Corasick para cor
     ```
 
 3. Salve as alterações no arquivo.
+
+## Sobre
+
+O algoritmo Aho-Corasick permite a busca de padrões diversos de maneira simultânea devido à árvore de prefixos (ou árvore trie). O objetivo principal é semelhante ao algoritmo KMP no quesito de buscar padrões em arquivos de texto, porém Aho-Corasick é mais eficiente para buscas de muitos padrões aos mesmo tempo. Essa otimização, em relação ao KMP, pode ser vista no arquivo `.pdf` anexado, que contém os slides apresentados.
